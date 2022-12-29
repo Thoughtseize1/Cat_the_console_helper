@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages]
+find = {}
+
+[project]
+name = "felis_cat_assistant"
+version = "0.0.13"
+authors = [
+  { name="Nikita Shertianykh", email="n.sherstianykh@gmail.com" },
+]
+description = "Store and change text notes and contacts info (phones, address, email)."
+readme = "README.md"
+requires-python = ">=3.10.0"
+dependencies = ['pathlib', 'tabulate','holidays', 'pyowm']
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/xoka-pro/goit-python-core-project"
+
+[project.scripts]
+felis_start='felis_assistant.main:main'
+sort_files='felis_assistant.sorter:sorter'

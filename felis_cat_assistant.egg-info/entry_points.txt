@@ -1,0 +1,3 @@
+[console_scripts]
+felis_start = felis_assistant.main:main
+sort_files = felis_assistant.sorter:sorter
