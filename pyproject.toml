@@ -22,7 +22,7 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/xoka-pro/goit-python-core-project"
+"Homepage" = "https://github.com/Thoughtseize1/Cat_the_console_helper"
 
 [project.scripts]
 felis_start='felis_assistant.main:main'
