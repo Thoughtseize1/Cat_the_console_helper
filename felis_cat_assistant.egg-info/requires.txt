@@ -1,4 +1,0 @@
-pathlib
-tabulate
-holidays
-pyowm
