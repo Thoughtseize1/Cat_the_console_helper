@@ -45,16 +45,4 @@ pip install -i https://test.pypi.org/simple/ felis-cat-assistant
 
 ---
 
-## My awesome cretors:
-
-### | Oleh Ovchinnikov | Team Lead |
-
-### | Volodymyr Kramar | Scrum Master |
-
-### | Olga Pasichnyuk | Developer |
-
-### | Nikita Sherstianykh | Developer |
-
-### | Andrey Maybrodskyy | Developer |
-
 ---

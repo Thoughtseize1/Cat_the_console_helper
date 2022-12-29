@@ -1,0 +1,8 @@
+
+*.gz
+*.gz
+*.whl
+*.whl
+dist/felis_cat_assistant-0.0.13.tar.gz
+dist/felis_cat_assistant-0.0.13-py3-none-any.whl
+dist/felis_cat_assistant-0.0.13.tar.gz

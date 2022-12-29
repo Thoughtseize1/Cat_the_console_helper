@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: felis-cat-assistant
-Version: 0.0.13
+Version: 0.0.16
 Summary: Store and change text notes and contacts info (phones, address, email).
 Author-email: Nikita Shertianykh <n.sherstianykh@gmail.com>
 Project-URL: Homepage, https://github.com/xoka-pro/goit-python-core-project
@@ -57,17 +57,5 @@ pip install -i https://test.pypi.org/simple/ felis-cat-assistant
 - `sort_files X` - _sorting files in directory X_
 
 ---
-
-## My awesome cretors:
-
-### | Oleh Ovchinnikov | Team Lead |
-
-### | Volodymyr Kramar | Scrum Master |
-
-### | Olga Pasichnyuk | Developer |
-
-### | Nikita Sherstianykh | Developer |
-
-### | Andrey Maybrodskyy | Developer |
 
 ---

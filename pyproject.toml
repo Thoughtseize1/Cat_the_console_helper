@@ -7,7 +7,7 @@ find = {}
 
 [project]
 name = "felis_cat_assistant"
-version = "0.0.13"
+version = "0.0.16"
 authors = [
   { name="Nikita Shertianykh", email="n.sherstianykh@gmail.com" },
 ]
@@ -22,7 +22,7 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/xoka-pro/goit-python-core-project"
+"Homepage" = "https://github.com/Thoughtseize1/Cat_the_console_helper"
 
 [project.scripts]
 felis_start='felis_assistant.main:main'
