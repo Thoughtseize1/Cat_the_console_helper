@@ -44,17 +44,3 @@ pip install -i https://test.pypi.org/simple/ felis-cat-assistant
 - `sort_files X` - _sorting files in directory X_
 
 ---
-
-## My awesome cretors:
-
-### | Oleh Ovchinnikov | Team Lead |
-
-### | Volodymyr Kramar | Scrum Master |
-
-### | Olga Pasichnyuk | Developer |
-
-### | Nikita Sherstianykh | Developer |
-
-### | Andrey Maybrodskyy | Developer |
-
----
