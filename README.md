@@ -2,7 +2,7 @@
 
 <img src="felis_catus.png" align="right" style="width: 260px"  />
 
-### _I'm Felis Сatus Helper_. I was created to make your life sampler.
+### _I'm Felis Сatus Helper_. I was created to make your life simplier.
 
 ---
 
